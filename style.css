@@ -1,0 +1,22 @@
+h1 {
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+.button {
+    height: 30px;
+    width: 100px;
+    border-radius: 5px;
+    background: rgb(32, 23, 85);
+}
+
+.href-style-text {
+    display: flex;
+	justify-content: center;
+	align-items: center;
+    color: rgb(255, 255, 255);
+}
