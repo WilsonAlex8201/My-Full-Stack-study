@@ -7,9 +7,14 @@ h1 {
     margin: 0 auto;
 }
 
+.menu {
+    display: flex;
+}
+
 .button {
     height: 30px;
     width: 100px;
+    margin: 10px;
     border-radius: 5px;
     background: rgb(32, 23, 85);
 }
